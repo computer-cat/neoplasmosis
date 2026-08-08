@@ -3,7 +3,7 @@
 set -ouex pipefail
 
 
-IMAGE_NAME="plasmosis"
+IMAGE_NAME="neoplasmosis"
 IMAGE_PRETTY_NAME="Neoplasmosis"
 VERSION_ID=$(grep -Po '(?<=^VERSION_ID=).*' /usr/lib/os-release | tr -d '"')
 HOME_URL="https://github.com/computer-cat/kde-home-premium"
