@@ -1,1 +1,1 @@
-hi dont use this yet
+Personal fedora kinoite image with aerothemeplasma and some other things that i want
